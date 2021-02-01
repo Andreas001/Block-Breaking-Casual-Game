@@ -3,4 +3,4 @@ A simple casual game made with Unity. You flick a colored ball around the play a
 
 ![Gif: The Feature](Media/Gameplay.gif)
 
-This is an endless game where you can flick the ball and destroy blocks to gain as many score, score is gain by destroying blocks of the same color as the ball every round. The amount of blocks increases as the round continues. Every round is 60 seconds, should the blocks of the same color as the ball hasnt been destroyed then its game over.
+This is an endless game where you can flick the ball and destroy blocks to gain as many score, score is gain by destroying blocks of the same color as the ball every round and the amount of points gained depends on the velocity of the ball on contact with the block. The amount of blocks increases as the round continues. Every round is 60 seconds, should the blocks of the same color as the ball hasnt been destroyed then its game over.
